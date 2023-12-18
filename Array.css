@@ -1,0 +1,33 @@
+h1{
+    font-size: 77px;
+    font-family: sans-serif;
+    color:white;
+}
+input{
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    height: 7vh;
+    width: 400px;
+    outline: none;
+}
+*{
+    background-color: gray;
+}
+.main-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 75vh;
+}
+i{
+    font-size: 40px;
+    padding: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
